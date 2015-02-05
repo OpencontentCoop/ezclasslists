@@ -1,0 +1,24 @@
+{
+    "name": "opencontent/ezclasslist-ls",
+    "description": "eZ Class lists (OpenContent Fork)",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+        {
+            "name": "Damien POBEL",
+            "homepage": "http://projects.ez.no/ezclasslists"
+        },
+        {
+            "name": "OpenContent",
+            "homepage": "http://www.opencontent.it"
+        }
+    ],
+    "license": "GPL-2.0",    
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "ezclasslists"
+    }
+}
+
